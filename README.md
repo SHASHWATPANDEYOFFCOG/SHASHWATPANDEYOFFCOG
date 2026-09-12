@@ -112,7 +112,7 @@
 
 <a href="https://linkedin.com/in/shashwat-kumar-pandey-6b44b6289"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <!-- <a href="https://leetcode.com/u/Shashwatpandey2327/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a> -->
-<a href="https://shashwatpandeyoffcog.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<!-- <a href="https://shashwatpandeyoffcog.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> -->
 <a href="mailto:shashwatpandeyoffcog3039@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/SHASHWATPANDEYOFFCOG"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
@@ -124,7 +124,7 @@
 
 <!-- <img src="https://leetcard.jacoblin.cool/Shashwatpandey2327?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" /> -->
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+<!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" /> -->
 
 <sub>⭐️ From <a href="https://github.com/SHASHWATPANDEYOFFCOG">Shashwat</a> — always building, always shipping.</sub>
 
