@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3200&pause=800&color=7AA2F7&center=true&vCenter=true&width=650&height=70&lines=Shashwat+Kumar+Pandey;CS+Student+%26+Builder;Full-Stack+Developer+(MERN+%2B+Next.js);GenAI%2C+RAG+%26+Agentic+AI+Enthusiast;I+ship+production-grade+projects" alt="Shashwat Kumar Pandey" />
 
@@ -129,4 +129,4 @@
 <sub>⭐️ From <a href="https://github.com/SHASHWATPANDEYOFFCOG">Shashwat</a> — always building, always shipping.</sub>
 
 </div>
-
+ -->
