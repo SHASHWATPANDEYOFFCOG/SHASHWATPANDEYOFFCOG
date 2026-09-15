@@ -107,37 +107,28 @@
 
 ---
 
-## 📊 GitHub Statistics
 ---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<a href="https://github.com/SHASHWATPANDEYOFFCOG">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SHASHWATPANDEYOFFCOG&show_icons=true&hide_border=true&theme=tokyonight&cache_seconds=86400"
-    alt="Shashwat's GitHub Stats"
-  />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=SHASHWATPANDEYOFFCOG&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Shashwat's GitHub Stats"
+/>
 
-<a href="https://github.com/SHASHWATPANDEYOFFCOG">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHWATPANDEYOFFCOG&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</a>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHWATPANDEYOFFCOG&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/>
 
 <br />
 
-<a href="https://git.io/streak-stats">
-  <img
-    src="https://streak-stats.demolab.com?user=SHASHWATPANDEYOFFCOG&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</a>
+<img
+  src="https://streak-stats.demolab.com/?user=SHASHWATPANDEYOFFCOG&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
