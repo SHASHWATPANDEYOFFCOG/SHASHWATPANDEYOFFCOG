@@ -118,7 +118,7 @@
   alt="GitHub Streak"
 />
 
-</div>
+<!-- </div>
 
 ## 🧠 Competitive Programming
 
@@ -128,7 +128,7 @@
   <img src="https://leetcard.jacoblin.cool/Shashwatpandey2327?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </a>
 
-</div>
+</div> -->
 
 ---
 
@@ -144,9 +144,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-<a href="https://leetcode.com/u/Shashwatpandey2327/">
+<!-- <a href="https://leetcode.com/u/Shashwatpandey2327/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a>
+</a> -->
 
 <a href="mailto:shashwatpandeyoffcog3039@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
