@@ -114,18 +114,6 @@
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=SHASHWATPANDEYOFFCOG&show_icons=true&theme=tokyonight&hide_border=true"
-  alt="Shashwat's GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHASHWATPANDEYOFFCOG&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Top Languages"
-/>
-
-<br />
-
-<img
   src="https://streak-stats.demolab.com/?user=SHASHWATPANDEYOFFCOG&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
